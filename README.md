@@ -1,1 +1,1 @@
-# dice-roller
+# Dice Roller
